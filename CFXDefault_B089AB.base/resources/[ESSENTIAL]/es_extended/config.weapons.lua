@@ -210,6 +210,7 @@ Config.Weapons = {
 	{name = 'WEAPON_NAVYREVOLVER', label = _U('weapon_navyrevolver'), components = {}},
 	{name = 'WEAPON_GADGETPISTOL', label = _U('weapon_gadgetpistol'), components = {}},
 	{name = 'WEAPON_STUNGUN_MP', label = _U('weapon_stungun_mp'), components = {}}, --DŁUŻSZE ŁADOWANIE JAK NA GTA ONLINE
+	--SMG
 	{
 		name = 'WEAPON_MICROSMG',
 		label = _U('weapon_microsmg'),
@@ -315,6 +316,7 @@ Config.Weapons = {
 			{name = 'magazynek_powiększony', label = _U('component_clip_extended'), hash = GetHashKey('COMPONENT_MINISMG_CLIP_02')},
 		}
 	},
+	--SHOTGUN
 	{
 		name = 'WEAPON_PUMPSHOTGUN',
 		label = _U('weapon_pumpshotgun'),
@@ -402,6 +404,7 @@ Config.Weapons = {
 			{name = 'tłumik', label = _U('component_clip_drum'), hash = GetHashKey('COMPONENT_AT_AR_SUPP')},
 		}
 	},
+	--RIFLE
 	{
 		name = 'WEAPON_ASSAULTRIFLE',
 		label = _U('weapon_assaultrifle'),
@@ -654,6 +657,7 @@ Config.Weapons = {
 			{name = 'malowanie_thefamilies', label = _U('component_clip_extended'), hash = GetHashKey('COMPONENT_HEAVYRIFLE_CAMO1')},
 		}
 	},
+	--MACHINEGUNS
 	{
 		name = 'WEAPON_MG',
 		label = _U('weapon_mg'),
@@ -719,6 +723,7 @@ Config.Weapons = {
 			{name = 'magazynek_powiększony', label = _U('component_clip_extended'), hash = GetHashKey('COMPONENT_GUSENBERG_CLIP_02')},
 		}
 	},
+	--SNIPER
 	{
 		name = 'WEAPON_SNIPERRIFLE',
 		label = _U('weapon_sniperrifle'),
@@ -820,6 +825,7 @@ Config.Weapons = {
 			{name = 'pociski_smugowe', label = _U('component_flashlight'), hash = GetHashKey('COMPONENT_MARKSMANRIFLE_MK2_CLIP_TRACER')},
 		}
 	},
+	--HEAVY
 	{name = 'WEAPON_RPG', label = _U('weapon_rpg'), components = {}},
 	{
 		name = 'WEAPON_GRENADELAUNCHER',
