@@ -859,11 +859,4 @@ Config.Weapons = {
 	{name = 'WEAPON_FIREEXTINGUISHER', label = _U('weapon_fireextinguisher'), components = {}},
 	{name = 'WEAPON_HAZARDCAN', label = _U('weapon_hazardcan'), components = {}},
 	{name = 'WEAPON_FERTILIZERCAN', label = _U('weapon_fertilizercan'), components = {}},
-
-	{name = 'WEAPON_DIGISCANNER', label = _U('weapon_digiscanner'), components = {}},
-	{name = 'WEAPON_STINGER', label = _U('weapon_stinger'), components = {}},
-	{name = 'WEAPON_GARBAGEBAG', label = _U('weapon_garbagebag'), components = {}},
-	{name = 'WEAPON_HANDCUFFS', label = _U('weapon_handcuffs'), components = {}},
-	{name = 'GADGET_NIGHTVISION', label = _U('gadget_nightvision'), components = {}},
-
 }
